@@ -1,15 +1,15 @@
-#
+GOO EUMHYE#
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: JEON SEUNGHOON
+name: GOO EUMHYE
 
 # Short bio or description (displayed in the header)
 description: In KOREA, Seokyeong University Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://jsh93.github.io/images/logo.png
+avatar: https://GooEunhye.github.io/images/logo.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://jsh93.github.io/images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hoony1993@naver.com
-  facebook: people/전승훈/100003174529038
+  email: geh2078@naver.com
+  facebook: profile.php?id=100004303175134&ref=bookmarks
   flickr: 
-  github: JSH93
+  github: GooEunhye
   instagram:
   linkedin:
   pinterest:
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-118814232-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://jsh93.github.io
+url: http://GooEunhye.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
