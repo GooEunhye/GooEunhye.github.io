@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jsh93.github.io/sitemap.xml
