@@ -12,4 +12,3 @@ permalink: /about/
 ### More Information
 #### Email : <geh2078@naver.com>
 #### facebook : <a href="https://www.facebook.com/profile.php?id=100004303175134&ref=bookmarks" target="_blank">https://www.facebook.com/profile.php?id=100004303175134&ref=bookmarks</a>
-
