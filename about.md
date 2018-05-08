@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![ID_Photo](./images/My_Photo.jpg)
 ### Name : Goo, Eunhye
-### Sex : Male
+### Sex : Female
 ### Nationality : Korea
 ### Job : Student
 
